@@ -24,6 +24,7 @@ Optionally, you can apply your own STYLE template or add extra formatting like h
 ##  Version history
 
 0.0.1(9July2025) : Initial version
+
 0.0.2(13Jun2026) : bug fix in refdefine. Parameter: LAYOUT Default Value=(Null) to PORTRAIT.
 
 ---
